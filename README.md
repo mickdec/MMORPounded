@@ -1,5 +1,5 @@
 <!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/mickdec/Haremg0.B-cl/master/READMERES/MMORP-200x200.png" />
+  <img src="https://raw.githubusercontent.com/mickdec/MMORPounded/master/READMERES/MMORP-200x200.png" />
 </div> -->
 <div align="center">
   <h1 align="center">MMORPounded</h1>
@@ -24,22 +24,22 @@ This tool kit contains all you need to exploit winsock in windows applications.
 
 VS2019 will install the "Developer Command Prompt for VS 2019" who will be used to found if the target program use winsock and all the function you want to hook :
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mickdec/Haremg0.B-cl/master/READMERES/VS2019CMD.png" />
+  <img src="https://raw.githubusercontent.com/mickdec/MMORPounded/master/READMERES/VS2019CMD.png" />
 </div>
 
 Arwin, is used to found adresses of winsock function in ws2_32.dll :
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mickdec/Haremg0.B-cl/master/READMERES/Arwin.png" />
+  <img src="https://raw.githubusercontent.com/mickdec/MMORPounded/master/READMERES/Arwin.png" />
 </div>
 
 VS2019 is used to develop your cpp DLL and DetoursInjector (The DLL injector) :
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mickdec/Haremg0.B-cl/master/READMERES/VS2019.png" />
+  <img src="https://raw.githubusercontent.com/mickdec/MMORPounded/master/READMERES/VS2019.png" />
 </div>
 
 Once all is done, builded as you wish and all, you can start to hooking process by inject the DLL :
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mickdec/Haremg0.B-cl/master/READMERES/INJECT.png" />
+  <img src="https://raw.githubusercontent.com/mickdec/MMORPounded/master/READMERES/INJECT.png" />
 </div>
 
 </p>
