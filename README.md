@@ -20,7 +20,7 @@ This tool is meant to be used only for benevolent purposes.
 </i><p>
 <h2>WHAT THIS TOOLKIT DOES</h2>
 <p>
-This tool kit contains all you need to exploit winsock in windows applications.
+This tool kit contains all the tools you need to exploit winsock in windows applications.
 <hr>
 VS2019 will install the <b>"Developer Command Prompt for VS 2019"</b> who will be used to found if the target program use winsock and all the function you want to hook :
 <div align="center">
